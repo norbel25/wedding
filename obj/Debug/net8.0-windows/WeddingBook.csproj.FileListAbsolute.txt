@@ -1,0 +1,60 @@
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy\bin\Debug\net8.0-windows\WeddingBook.exe
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy\bin\Debug\net8.0-windows\WeddingBook.deps.json
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy\bin\Debug\net8.0-windows\WeddingBook.runtimeconfig.json
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy\bin\Debug\net8.0-windows\WeddingBook.dll
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy\bin\Debug\net8.0-windows\WeddingBook.pdb
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy\obj\Debug\net8.0-windows\WeddingBook.Form2.resources
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy\obj\Debug\net8.0-windows\WeddingBook.Properties.Resources.resources
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy\obj\Debug\net8.0-windows\WeddingBook.csproj.GenerateResource.cache
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy\obj\Debug\net8.0-windows\WeddingBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy\obj\Debug\net8.0-windows\WeddingBook.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy\obj\Debug\net8.0-windows\WeddingBook.AssemblyInfo.cs
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy\obj\Debug\net8.0-windows\WeddingBook.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy\obj\Debug\net8.0-windows\WeddingBook.dll
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy\obj\Debug\net8.0-windows\refint\WeddingBook.dll
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy\obj\Debug\net8.0-windows\WeddingBook.pdb
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy\obj\Debug\net8.0-windows\WeddingBook.genruntimeconfig.cache
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy\obj\Debug\net8.0-windows\ref\WeddingBook.dll
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy\obj\Debug\net8.0-windows\WeddingBook.Form1.resources
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook\bin\Debug\net8.0-windows\WeddingBook.exe
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook\bin\Debug\net8.0-windows\WeddingBook.deps.json
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook\bin\Debug\net8.0-windows\WeddingBook.runtimeconfig.json
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook\bin\Debug\net8.0-windows\WeddingBook.dll
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook\bin\Debug\net8.0-windows\WeddingBook.pdb
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook\obj\Debug\net8.0-windows\WeddingBook.additionalServices.resources
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook\obj\Debug\net8.0-windows\WeddingBook.ConfirmationAndSummarycs.resources
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook\obj\Debug\net8.0-windows\WeddingBook.Form1.resources
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook\obj\Debug\net8.0-windows\WeddingBook.Form2.resources
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook\obj\Debug\net8.0-windows\WeddingBook.Form3.resources
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook\obj\Debug\net8.0-windows\WeddingBook.PackageOption.resources
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook\obj\Debug\net8.0-windows\WeddingBook.Properties.Resources.resources
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook\obj\Debug\net8.0-windows\WeddingBook.SelectVenue.resources
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook\obj\Debug\net8.0-windows\WeddingBook.csproj.GenerateResource.cache
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook\obj\Debug\net8.0-windows\WeddingBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook\obj\Debug\net8.0-windows\WeddingBook.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook\obj\Debug\net8.0-windows\WeddingBook.AssemblyInfo.cs
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook\obj\Debug\net8.0-windows\WeddingBook.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook\obj\Debug\net8.0-windows\WeddingBook.dll
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook\obj\Debug\net8.0-windows\refint\WeddingBook.dll
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook\obj\Debug\net8.0-windows\WeddingBook.pdb
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook\obj\Debug\net8.0-windows\WeddingBook.genruntimeconfig.cache
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook\obj\Debug\net8.0-windows\ref\WeddingBook.dll
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy (3)\obj\Debug\net8.0-windows\WeddingBook.Form1.resources
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy (3)\obj\Debug\net8.0-windows\WeddingBook.Form2.resources
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy (3)\obj\Debug\net8.0-windows\WeddingBook.Properties.Resources.resources
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy (3)\obj\Debug\net8.0-windows\WeddingBook.csproj.GenerateResource.cache
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy (3)\obj\Debug\net8.0-windows\WeddingBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy (3)\obj\Debug\net8.0-windows\WeddingBook.AssemblyInfoInputs.cache
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy (3)\obj\Debug\net8.0-windows\WeddingBook.AssemblyInfo.cs
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy (3)\obj\Debug\net8.0-windows\WeddingBook.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy (3)\obj\Debug\net8.0-windows\WeddingBook.dll
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy (3)\obj\Debug\net8.0-windows\refint\WeddingBook.dll
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy (3)\obj\Debug\net8.0-windows\WeddingBook.pdb
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy (3)\bin\Debug\net8.0-windows\WeddingBook.exe
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy (3)\bin\Debug\net8.0-windows\WeddingBook.deps.json
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy (3)\bin\Debug\net8.0-windows\WeddingBook.runtimeconfig.json
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy (3)\bin\Debug\net8.0-windows\WeddingBook.dll
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy (3)\bin\Debug\net8.0-windows\WeddingBook.pdb
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy (3)\obj\Debug\net8.0-windows\WeddingBook.genruntimeconfig.cache
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy (3)\obj\Debug\net8.0-windows\ref\WeddingBook.dll
+C:\Users\ASUS TUF\Documents\Source Code\c#\WeddingBook - Copy (3)\obj\Debug\net8.0-windows\WeddingBook.Form3.resources
